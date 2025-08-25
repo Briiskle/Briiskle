@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! 💕 💫
+
+## My name is Rebecca! I'm in my second semester at Northampton Community College studying computer science. I plan on going for my bachelors in Robotics after my time at NCC.
+
+## Thank you for reading! 💖
 
 <!--
 **Briiskle/Briiskle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
